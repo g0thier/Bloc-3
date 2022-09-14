@@ -21,3 +21,17 @@
  * Visualize results on a nice dashboard
 
 ## Informations about files:
+
+### Walmart Sales
+ * 01 EDA : This file convert date to variables and categorie int to object for futur preprocessing
+ * 02 Linear regression : This Linear regression find the bests explications value for find the Weekly_Sales
+ * 03 Lasso Rigde : This model find a solution for a little bit prediction about 0.957 vs 0.943 (+ 1.4 %)
+
+### Conversion Rate Challenge
+ * 01 EDA : Dataset is cleaned and columns are plots on converted users 
+ * 02 Model Prediction : A random forest predict a model and tree of decision is display
+ * 03 Model Conclusion : The model is reused on test set and plot explains values for this conclusion.
+
+### Uber Pickups.
+ * 01 Uber Data : Datasets are merges and date cleaned 
+ * 02 Uber Kmeans : Clusters are found with a kmeans algorithme
