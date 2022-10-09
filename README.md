@@ -1,8 +1,11 @@
 # Bloc n°3 : Analyse prédictive de données structurées par l'intelligence artificielle.
+## Contact 
+
+[voguant-cal0n@icloud.com](mailto:voguant-cal0n@icloud.com)
 
 ## Video explain
 
-* Foo
+[Bloc n°3 : Analyse prédictive de données structurées par l'intelligence artificielle.](https://youtu.be/ycSRzngCCEU "Bloc n°3")
 
 ## Goals
 ### Walmart Sales
